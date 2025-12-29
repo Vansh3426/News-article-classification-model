@@ -11,7 +11,7 @@ import spacy
 
 
 
-df = pd.read_json("News-article-classification/news_dataset.json")
+df = pd.read_json("News-article-classification\dataset\dataset-news.json")
 
 
 
